@@ -1,6 +1,6 @@
 # STATS202-Project
 
-The source code has been uploaded to the following URL:
+The source code has been uploaded to the following URL: https://github.com/KozakHou/STATS202-Project
 
 Objective 1: Project_A, Project_B, Project_C, Project_D, Project_E.ipynb
 
